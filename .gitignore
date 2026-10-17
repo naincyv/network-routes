@@ -1,0 +1,7 @@
+venv/
+.venv/
+instance/
+__pycache__/
+.pytest_cache/
+*.pyc
+try_api.py
